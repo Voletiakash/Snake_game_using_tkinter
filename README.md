@@ -30,7 +30,7 @@ To run the game on your local machine:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/Voletiakash/Snake_game_using_tkinter.git
 Navigate to the project directory:
 bash
 Copy code
